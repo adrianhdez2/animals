@@ -747,6 +747,10 @@ footer p a:hover{
 
 @media screen and (max-width: 1080px) {
     
+    . secciones {
+       height: 100%;
+    }
+
     .container-menu-lateral{
         width: 100%;
     }
